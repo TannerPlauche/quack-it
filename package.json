@@ -1,0 +1,19 @@
+{
+    "name": "quack-it",
+    "version": "1.2.0",
+    "description": "A replacement for console.log that adds a little fun to your boring ol' log statements.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Tanner Plauche",
+    "keywords": [
+        "console",
+        "log",
+        "print"
+    ],
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.0"
+    }
+}
